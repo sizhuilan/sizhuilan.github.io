@@ -1,5 +1,5 @@
 .about-section {
-  padding-top: 13rem;
+  padding-top: 2rem;
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 
@@ -31,4 +31,10 @@
 .skills-section .project-text {
   padding: 3rem;
   font-size: 90%;
+}
+.img-fluid{
+	 border-radius: 50%
+}
+ul {
+    list-style-type:none;
 }
