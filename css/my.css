@@ -60,3 +60,24 @@ ul {
 .prlearning-section {
 	padding:5rem;
 }
+
+.interests-section{
+	padding:15rem;
+}
+
+.shuoming{
+	font-size:25px;
+}
+
+th,td{
+	text-align:center;
+}
+
+.flex-container{
+	display: flex;
+	flex-flow:row wrap;
+	justify-content:space-around;
+}
+div#work{
+	width:30rem;
+}
