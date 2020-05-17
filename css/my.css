@@ -1,3 +1,19 @@
+body {
+font-family: 'Noto Sans TC', sans-serif;
+color:#968686;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+	color:#3e3440;
+}
+
+.subheading {
+	text-transform:none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
 .about-section {
   padding-top: 2rem;
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
@@ -21,7 +37,7 @@
 }
 
 .skills-section {
-  padding: 15rem 0;
+  padding: 10rem;
 }
 
 .skills-section .featured-text {
@@ -32,9 +48,15 @@
   padding: 3rem;
   font-size: 90%;
 }
+
 .img-fluid{
 	 border-radius: 50%
 }
+
 ul {
     list-style-type:none;
+}
+
+.prlearning-section {
+	padding:5rem;
 }
