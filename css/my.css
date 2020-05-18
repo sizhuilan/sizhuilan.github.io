@@ -62,7 +62,8 @@ ul {
 }
 
 .interests-section{
-	padding:15rem;
+	padding-top:10rem;
+	padding-bottom:15rem;
 }
 
 .shuoming{
@@ -77,7 +78,12 @@ th,td{
 	display: flex;
 	flex-flow:row wrap;
 	justify-content:space-around;
+	align-items:center;
 }
 div#work{
-	width:600px;
+	width:350px;
+}
+
+.card-link{
+	text-align:center:
 }
