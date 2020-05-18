@@ -37,7 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .skills-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
+  padding-bottom:5rem;
 }
 
 .skills-section .featured-text {
@@ -82,6 +83,7 @@ th,td{
 }
 div#work{
 	width:350px;
+	color:black;
 }
 
 .card-link{
